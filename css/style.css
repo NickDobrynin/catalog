@@ -20,7 +20,7 @@ body {
 }
 
 .main__certificate {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 .main__certificate > a {
@@ -34,7 +34,7 @@ body {
 }
 
 .products__item:not(:last-child) {
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }
 
 .products__link {
@@ -45,7 +45,7 @@ body {
   text-decoration: none;
   border: 1px solid #000;
   border-radius: 50px;
-  padding: 0 5px;
+  padding: 0 10px;
 }
 
 .products__name, .products__price {
