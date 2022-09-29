@@ -1,2 +1,3 @@
-const swiper = new Swiper('.catalog', {
+$('.popup-link').magnificPopup({
+  type:'image'
 });
