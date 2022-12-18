@@ -20,13 +20,18 @@ body {
 }
 
 .main__certificate {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .main__certificate > a {
   font-weight: 600;
   font-size: 20px;
   color: inherit;
+}
+
+.title {
+  font-size: 30px;
+  margin-bottom: 10px;
 }
 
 .products__list {
