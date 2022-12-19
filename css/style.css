@@ -34,8 +34,25 @@ body {
   margin-bottom: 10px;
 }
 
+.subtitle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+.products {
+  list-style-type: none;
+}
+
+.products__group {
+  overflow: hidden;
+}
+
 .products__list {
   list-style-type: none;
+  transition: all .5s ease;
 }
 
 .products__item:not(:last-child) {
